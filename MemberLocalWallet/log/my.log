@@ -1,0 +1,69 @@
+03-04 14:28 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): rc.18luck.com
+03-04 14:28 urllib3.connectionpool DEBUG    https://rc.18luck.com:443 "POST /api/v1/chat.postMessage HTTP/1.1" 200 None
+03-04 14:28 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): rc.18luck.com
+03-04 14:28 urllib3.connectionpool DEBUG    https://rc.18luck.com:443 "POST /api/v1/chat.postMessage HTTP/1.1" 200 None
+03-04 14:28 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): rc.18luck.com
+03-04 14:28 urllib3.connectionpool DEBUG    https://rc.18luck.com:443 "POST /api/v1/chat.postMessage HTTP/1.1" 200 None
+03-04 14:29 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): rc.18luck.com
+03-04 14:29 urllib3.connectionpool DEBUG    https://rc.18luck.com:443 "POST /api/v1/chat.postMessage HTTP/1.1" 200 None
+03-04 14:30 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): rc.18luck.com
+03-04 14:30 urllib3.connectionpool DEBUG    https://rc.18luck.com:443 "POST /api/v1/chat.postMessage HTTP/1.1" 200 None
+03-04 14:30 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): rc.18luck.com
+03-04 14:30 urllib3.connectionpool DEBUG    https://rc.18luck.com:443 "POST /api/v1/chat.postMessage HTTP/1.1" 200 None
+03-04 14:30 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): rc.18luck.com
+03-04 14:30 urllib3.connectionpool DEBUG    https://rc.18luck.com:443 "POST /api/v1/chat.postMessage HTTP/1.1" 200 None
+03-04 14:30 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): rc.18luck.com
+03-04 14:30 urllib3.connectionpool DEBUG    https://rc.18luck.com:443 "POST /api/v1/chat.postMessage HTTP/1.1" 200 None
+03-05 09:45 root         ERROR    Internal Python error in the inspect module.
+Below is the traceback from this internal error.
+
+03-05 09:45 matplotlib.pyplot DEBUG    Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+03-05 10:25 matplotlib.pyplot DEBUG    Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+03-05 11:10 matplotlib.pyplot DEBUG    Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+03-05 11:30 matplotlib.pyplot DEBUG    Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+03-05 14:28 root         ERROR    Internal Python error in the inspect module.
+Below is the traceback from this internal error.
+
+03-05 14:28 root         INFO     
+Unfortunately, your original traceback can not be constructed.
+
+03-05 16:43 matplotlib.pyplot DEBUG    Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+03-05 17:20 matplotlib.pyplot DEBUG    Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+03-05 17:52 matplotlib.pyplot DEBUG    Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+03-05 17:58 matplotlib.pyplot DEBUG    Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+03-05 18:08 matplotlib.pyplot DEBUG    Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+03-05 18:29 matplotlib.pyplot DEBUG    Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+03-06 10:00 matplotlib.pyplot DEBUG    Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+03-06 15:59 matplotlib.pyplot DEBUG    Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+03-07 09:40 matplotlib.pyplot DEBUG    Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+03-09 10:00 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): rc.18luck.com
+03-09 10:00 urllib3.connectionpool DEBUG    https://rc.18luck.com:443 "POST /api/v1/chat.postMessage HTTP/1.1" 200 None
+03-09 10:00 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): rc.18luck.com
+03-09 10:00 urllib3.connectionpool DEBUG    https://rc.18luck.com:443 "POST /api/v1/chat.postMessage HTTP/1.1" 200 None
+03-09 10:00 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): rc.18luck.com
+03-09 10:00 urllib3.connectionpool DEBUG    https://rc.18luck.com:443 "POST /api/v1/chat.postMessage HTTP/1.1" 200 None
+03-09 10:00 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): rc.18luck.com
+03-09 10:00 urllib3.connectionpool DEBUG    https://rc.18luck.com:443 "POST /api/v1/chat.postMessage HTTP/1.1" 200 None
+03-09 10:00 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): rc.18luck.com
+03-09 10:00 urllib3.connectionpool DEBUG    https://rc.18luck.com:443 "POST /api/v1/chat.postMessage HTTP/1.1" 200 None
+03-09 10:10 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): rc.18luck.com
+03-09 10:10 urllib3.connectionpool DEBUG    https://rc.18luck.com:443 "POST /api/v1/chat.postMessage HTTP/1.1" 200 None
+03-09 10:11 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): rc.18luck.com
+03-09 10:11 urllib3.connectionpool DEBUG    https://rc.18luck.com:443 "POST /api/v1/chat.postMessage HTTP/1.1" 200 None
+03-09 10:11 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): rc.18luck.com
+03-09 10:11 urllib3.connectionpool DEBUG    https://rc.18luck.com:443 "POST /api/v1/chat.postMessage HTTP/1.1" 200 None
+03-09 10:11 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): rc.18luck.com
+03-09 10:11 urllib3.connectionpool DEBUG    https://rc.18luck.com:443 "POST /api/v1/chat.postMessage HTTP/1.1" 200 None
+03-09 10:11 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): rc.18luck.com
+03-09 10:11 urllib3.connectionpool DEBUG    https://rc.18luck.com:443 "POST /api/v1/chat.postMessage HTTP/1.1" 200 None
+03-09 11:38 matplotlib.pyplot DEBUG    Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+03-09 13:56 matplotlib.pyplot DEBUG    Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+03-09 14:45 matplotlib.pyplot DEBUG    Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+03-09 15:00 matplotlib.pyplot DEBUG    Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+03-09 15:19 matplotlib.pyplot DEBUG    Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+03-09 15:20 matplotlib.pyplot DEBUG    Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+03-09 15:26 matplotlib.pyplot DEBUG    Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+03-09 15:29 matplotlib.pyplot DEBUG    Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+03-10 16:33 matplotlib.pyplot DEBUG    Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+03-10 17:53 matplotlib.pyplot DEBUG    Loaded backend module://ipykernel.pylab.backend_inline version unknown.
+03-10 17:56 matplotlib.pyplot DEBUG    Loaded backend module://ipykernel.pylab.backend_inline version unknown.
